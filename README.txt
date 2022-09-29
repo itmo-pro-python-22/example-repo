@@ -1,3 +1,3 @@
 My cool Git test
 
-Second version
+Second version with merge
